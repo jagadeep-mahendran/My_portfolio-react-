@@ -14,7 +14,7 @@
       "state": "India",
       "zip": "637001"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://jagadeep.netlify.app/",
     "resumedownload": "https://drive.google.com/file/d/1QSKR16Sgv7g3F7ymm_MHacvHmha-_6hR/view?usp=sharing",
     "social": [
       {
@@ -104,16 +104,29 @@
         "url": "https://github.com/jagadeep-mahendran/Blog_App"
       },
       {
+        "title": "Patatap Clone",
+        "category": "Patapap clone using paper.js and hower.js",
+        "image": "patatap.png",
+        "url": "https://jacks-patatap.netlify.app/"
+      },
+      {
+        "title": "Todo_list",
+        "category": "Amazing Todo list using Javascript",
+        "image": "todo.png",
+        "url": "https://amazing-todo.netlify.app/"
+      },
+      {
         "title": "Hackerrank",
         "category": "My Hackerrank profile with 6 star in problem solving",
         "image": "hackerrank.png",
         "url": "https://www.hackerrank.com/Jagadeep_mahi"
       },
+
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "30 days challenge",
+        "category": "Leetcode May 2020 30 days challenge solution ",
+        "image": "leet.png",
+        "url": "https://github.com/jagadeep-mahendran/Leetcode--30days-code-May_challenge-.-solutions"
       }
     ]
   },
