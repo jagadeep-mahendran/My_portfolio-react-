@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Jagadeep",
+    "occupation": "Software Developer ",
+    "description": " Developer by Day, Netflix and chill by Night. #No bug no life",
+    "image": "jagadeep_pic.jpeg",
+    "bio": "My name is Jagadeep, I'm a Developer. Currently I'm working at athenahealth as a Intern  for the position Associate Member of TechnicalStaff ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jagadeepmahendran@gmail.com",
+    "phone": "+919487869700",
+    "address": {
+      "street": "Namakkal",
+      "city": "Tamilnadu",
+      "state": "India",
+      "zip": "637001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1QSKR16Sgv7g3F7ymm_MHacvHmha-_6hR/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jagadeep.mahendran/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jagadeep-mahendren-11b3181a8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jagadeep_mahendran/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jagadeep-mahendran",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Have a good knowledge of programming languages and good at implementing Optimal solutions and proficient in using various concepts ",
+    "education": [
+      {
+        "school": "Sri krishna college of Engineering and Technology",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "March 2021",
+        "description": "Graduated with Distinction with CGPA of 8.7/10"
+      }
+
+    ],
+    "work": [
+      {
+        "company": "AthenaHealth",
+        "title": "Associate Member of TechnicalStaff",
+        "years": "Jan 2021 - Present",
+        "description": "Here we solve many real life problems to ensure that our friends and family get good Medical care"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Problem solving",
+        "level": "70%"
+      },
+      {
+        "name": "C programing",
+        "level": "70%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "OOPS",
+        "level": "60%"
+      }
+      
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Online departmental store",
+        "category": "Console application - using C programming",
+        "image": "deptmental_store.png",
+        "url": "https://github.com/jagadeep-mahendran/bootaton-online-deptmental-store"
+      },
+      {
+        "title": "Yelpcamp",
+        "category": "Webapplication build with nodejs,express and mongoDb",
+        "image": "Yelpcamp.png",
+        "url": "https://github.com/jagadeep-mahendran/Yelpcamp"
+      },
+      {
+        "title": "Blogger site",
+        "category": "Simple web application where User can post ,edit and delete blogs (using RESTful routes and CRUD Operations ,database used mongodb .)",
+        "image": "blogger.png",
+        "url": "https://github.com/jagadeep-mahendran/Blog_App"
+      },
+      {
+        "title": "Hackerrank",
+        "category": "My Hackerrank profile with 6 star in problem solving",
+        "image": "hackerrank.png",
+        "url": "https://www.hackerrank.com/Jagadeep_mahi"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Jagadeep must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "  Myself"
+      }
+    ]
+  }
+}
