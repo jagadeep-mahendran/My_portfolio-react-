@@ -3,7 +3,7 @@
     "name": "Jagadeep",
     "occupation": "Software Developer ",
     "description": " Developer by Day, Netflix and chill by Night. #No bug no life",
-    "image": "jagadeep_pic.jpeg",
+    "image": "jaga_pic.jpg",
     "bio": "My name is Jagadeep, I'm a Developer. Currently I'm working at athenahealth as a Intern  for the position Associate Member of TechnicalStaff ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jagadeepmahendran@gmail.com",
@@ -46,14 +46,14 @@
         "school": "Sri krishna college of Engineering and Technology",
         "degree": "Bachelor's in Computer Science",
         "graduated": "March 2021",
-        "description": "Graduated with Distinction with CGPA of 8.7/10"
+        "description": "Graduated with Distinction (CGPA 8.7)"
       }
 
     ],
     "work": [
       {
         "company": "AthenaHealth",
-        "title": "Associate Member of TechnicalStaff",
+        "title": "Intern as Associate Member of TechnicalStaff",
         "years": "Jan 2021 - Present",
         "description": "Here we solve many real life problems to ensure that our friends and family get good Medical care"
       }
@@ -77,7 +77,7 @@
       },
       {
         "name": "OOPS",
-        "level": "60%"
+        "level": "65%"
       }
       
       
